@@ -1,8 +1,8 @@
 
 
-##############################################################################################################################################################################################
+#################################################################################################
 ### INFORMACION GENERAL
-##############################################################################################################################################################################################
+#################################################################################################
 
 -DYNAMIC RATES:
 
@@ -21,6 +21,8 @@ Exp / Sp : x7
 Lvl 65 to Lvl Max
 Exp / Sp : x9
 
+--------------------------------------------------------------------------------------------------
+
 -DROP:
 
  Adena: x3
@@ -29,7 +31,7 @@ Exp / Sp : x9
  
  Raid Boss Drop: x1
  
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+-------------------------------------------------------------------------------------------------- 
 
 -ENCHANTS PROGRESIVOS:
 
@@ -50,9 +52,9 @@ Safe → +6 = 77%
 
 MAXIUM ENCHANT = NO LIMITS
 
-##############################################################################################################################################################################################
+#################################################################################################
 ### REWORK
-##############################################################################################################################################################################################
+#################################################################################################
 
 Desde una base HighFive Oficial, para que lo entendais, hemos realizado un Rework, Conservando, Eliminando y Editando lo mejor de esta cronica,
 haciendo como una especie de fusion Diabolica de las dos cronicas favoritas por todos los jugadores de este famoso juego Lineage2
@@ -64,19 +66,19 @@ incluso hacen que las clases solo inicien pvp teniendo el enfriamiento de estas 
 como por ejemplo
 La skill Enlightement y las Skills Auras como Cannon, Shield..
 
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------
 
 -NobleQuest, Como sabeis, en highfive podeis decidir finalizar la quest de noble elimnando 100 mobs o matar a barakiel, Hemmos Eliminado la opcion de finalizar matando 100 mobs
 Ahora solo podras finalizar la quest Matando a Barakiel, Barakiel sera Poderoso y tendra un repawn de 8horas con interesantes Drops
 (pensamos que ser noble debe ser mas importante y no depender de 100 bichitos.. hemos vuelto otra vez al pasado, donde Barakiel cobra un papel mas importante)
 
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------
 
 -CertificationSkills, ya no tendreis que hacer primero las subclass specificas para obtener esas skills specificos en vuestra main class porque las specific skills han sido eliminadas, solo podras
 obtener emergentes y masters.
 (un pvp en igualdad de condiciones, ganaria quien obtenga suerte en sus specific skills, pensamos que un pvp debe de ser puro y no depender de un porcentaje de suerte)
 
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------
 
 -CANT BE USED INSTANT POTIONS IN COMBAT
 
@@ -85,7 +87,7 @@ Hemos desarrollado un codigo Diabolico, el cual no deja consumir pociones intant
 Que decir de esto, Pvp´s mas limpios, importantes, serios, ya no se trata de quien tenga mas o spanea mas botellitas de cp o hp en el Pvp, ahora el pvp tendra mas sentido y las
 clases Cardinal y Dominator tendran un papel mas importante.
 
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------
 
 -BOSSES AND INSTANCES
 
@@ -98,12 +100,11 @@ Todos los Grandes Boses tendrar un respawn al mes:
 
 Pensamos que la joyeria boss debe de ser algo muy poco comun en un inventario, algo muy hardcore de conseguir.
 
-
 -Instances Bosses, Freya, Tezza, Zaken.
 Ahora sera necesario ser Noble para poder entrar
 
 
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------
 
 -NPCS 
 "NOTA IMPORTANTE"
@@ -112,18 +113,12 @@ Con esto queremos conseguir que el jugador tenga esa antigua sensacion de entrar
 que desea.
 
 
-
-
-
 -Npc Weapon Shop, Npc Armor Shop y Npc Jewellry Shop. Si necesitas algo de equipamiento en Weapons, Armaduras o Joyas podras dirigirte a cualquiera de estas tiendas Situadas 
 en todas las ciudades en las cuales ofreceran un maximo hasta de Grado-A
 
 -Npc Grocery Shop. Si necesitas Consumables tendras que dirigirte a las tiendas Grocery, alli podras encontrar todo lo necesario 
 
 -Npc Gatekeeper. Si neceitas viajar a otra ciudad tendras que usar la Npc GATEKEPER
-
-
-
 
 
 -NPC BUFFER SCARLETT: Los jugadores podran dirigirse al Npc Buffer Scarlett que esta cerca del gatekeper global en todas las ciudades y podran obtener 
